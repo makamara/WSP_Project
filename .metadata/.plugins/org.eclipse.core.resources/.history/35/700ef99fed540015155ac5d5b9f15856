@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WSP: Mohamed Kamara</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+</head>
+<body>
+
+
+	<!-- Header -->
+	<header>
+		<h1>WSP Mohamed Kamara</h1>
+	</header>
+
+	<!-- About -->	
+	<section>
+		about...
+	</section>
+
+	<!-- Blog, Components -->
+	<section>
+		
+		<article>
+			<img src="" alt="" />
+			<p>lorem ipsom...</p>
+		</article>
+		
+		<article>
+			<img src="" alt="" />
+			<p>lorem ipsom...</p>
+		</article>
+		
+	</section>
+
+</body>
+</html>

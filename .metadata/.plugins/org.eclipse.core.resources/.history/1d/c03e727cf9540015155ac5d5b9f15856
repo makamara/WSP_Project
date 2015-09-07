@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WSP: Mohamed Kamara</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+</head>
+<body>
+
+
+	<!-- Header -->
+	<header>
+		<h1>WSP Mohamed Kamara</h1>
+	</header>
+
+	<!-- About -->	
+	<section>
+		My name is Mohamed Kamara, I am originally from Liberia, a small country off the coast of West Africa. My interest in computer
+		started as far back as 1995 while in high school and since then I have made it a career. Before Fullsail, I worked on technical
+		support, but ever since I knew that development was something I really like doing, especially, the Web backend.  
+	</section>
+
+	<!-- Blog, Components -->
+	<section>
+		
+		<article>
+			<img src="" alt="" />
+			<p>lorem ipsom...</p>
+		</article>
+		
+		<article>
+			<img src="" alt="" />
+			<p>lorem ipsom...</p>
+		</article>
+		
+	</section>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+!SESSION 2015-09-06 18:10:39.584 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/PPC-1/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/PPC-1/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-06 18:11:11.487
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:11:51.536
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:11:51.537
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:15:06.088
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:15:06.088
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:18:47.501
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:18:47.501
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:19:24.836
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:19:24.836
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:19:32.784
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:19:32.784
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:20:57.871
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:20:57.871
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:21:32.680
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:21:32.680
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 18:22:32.486
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 18:22:32.486
+!MESSAGE fatal: bad revision 'HEAD'
+
+!ENTRY com.aptana.git.core 4 1 2015-09-06 19:43:41.885
+!MESSAGE Errors occurred while refreshing git index
+!SUBENTRY 1 com.aptana.core 4 128 2015-09-06 19:43:41.885
+!MESSAGE fatal: bad revision 'HEAD'
