@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WSP: Mohamed Kamara</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+</head>
+<body>
+
+
+	<!-- Header -->
+	<header>
+		<h1>WSP Mohamed Kamara</h1>
+	</header>
+
+	<!-- About -->	
+	<section>
+		<h1>About</h1>
+		<div class="image">Pix</div>
+		<article>
+		<p>My name is Mohamed Kamara, I am originally from Liberia, a small country off the coast of West Africa. My interest in computer
+		started as far back as 1995 while in high school and since then I have made it a career. Before Fullsail, I worked on technical
+		support, but ever since I knew that development was something I really like doing, especially, the Web backend.  
+		</p>
+		</article>
+	</section>
+
+	<!-- Blog, Components -->
+	<section>
+		
+		<article>
+			
+			<img src="images/header.png" alt="" />
+			<h1>HEADER</h1>
+			<p>To present the company image to users, the log is placed in the top left-hand corner. Users are able to navigate the Website 
+			by making a selection from the menu located in the top right-hand corner. Users can return to the home page by clicking the logo.
+			</p>
+			<h2>CONTENT VISUALIZATION</h2>
+			<p>This component (header, section, article) contains both the logo (img, h1) and the navigation (nav) with nested links (ul,a). 
+			For the logo to function as an escape hatch, it might also need to be linked (a).
+			</p>
+			<p><button type="button">VIEW COMPONENT</button></p>
+		</article>
+		
+		<article>
+			<img src="images/cta.jpg" alt="" />
+			<h1>CTA</h1>
+			<p>Immediately below the header, the Call-to-Action is used to attract user's attention on brand significance. 
+				The <strong>LEARN MORe</strong> button enables the user to explore the brand.
+			</p>
+			<h2>CONTENT VISUALIZATION</h2>
+			<p>This component (header, section, article) contains both the logo (img, h1) and the navigation (nav) with nested links (ul,a). 
+			For the logo to function as an escape hatch, it might also need to be linked (a).
+			</p>
+			<p><button type="button">VIEW COMPONENT</button></p>
+		</article>
+		
+	</section>
+<footer>(c)2015 WSP Mohamed Kamara</footer>
+</body>
+</html>

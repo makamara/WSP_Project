@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WSP: Mohamed Kamara</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+</head>
+<body>
+
+
+	<!-- Header -->
+	<header>
+		
+	</header>
+
+	<!-- About -->	
+	<section id="about">
+		
+		<h1>WSP Mohamed Kamara</h1>
+		<div class="image">
+			<img src="images/art_pix.jpg" alt="Mohamed Kamara" width="150" height="150" />
+			<p>My name is Mohamed Kamara, I am originally from Liberia, a small country off the coast of West Africa. My interest in computer
+		started as far back as 1995 while in high school and since then I have made it a career. Before Fullsail, I worked on technical
+		support, but ever since I knew that development was something I really like doing, especially, the Web backend.  
+		</p>
+		
+		
+	</section>
+
+	<!-- Blog, Components -->
+	<section>
+		<!-- Header section -->
+		<article>
+			
+			<img src="images/header.png" alt="Header Section" width="350" height="50" />
+			<h1>HEADER</h1><br />
+			<p>To present the company image to users, the log is placed in the top left-hand corner. Users are able to navigate the Website 
+			by making a selection from the menu located in the top right-hand corner. Users can return to the home page by clicking the logo.
+			</p><br />
+			<h3>CONTENT VISUALIZATION</h3><br />
+			
+			<p>This component (header, section, article) contains both the logo (img, h1) and the navigation (nav) with nested links (ul,a). 
+			For the logo to function as an escape hatch, it might also need to be linked (a).
+			</p><br />
+			<p><a href="" class="btnComp">VIEW COMPONENT</a></p>
+		</article>
+		<!-- CTA section -->
+		<article>
+			<img src="images/cta.jpg" alt="CTA" width="350" height="150" />
+			<h1>CTA</h1><br />
+			<p>Immediately below the header, the Call-to-Action is used to attract user's attention on brand significance. 
+				The <strong>LEARN MORe</strong> button enables the user to explore the brand.
+			</p><br />
+			<h3>CONTENT VISUALIZATION</h3><br />
+			<p>This component (section, article) begins with a large caption "MODERN"(div), a tagline (h1-h5), an background image (img). 
+			Beneath, a large "LEARN MORE" button to dive into features of site without using the navigation menu.
+			</p><br />
+			<p><a href="" class="btnComp">VIEW COMPONENT</a></p>
+		</article>
+	<!-- LEARN MORE section -->
+		<article>
+			<img src="images/learnmore.jpg" alt="Learn More" width="350" height="150" />
+			<h1>LEARN MORE</h1><br />
+			<p>In an exploratory mood, the "Learn More" btnComp from the CTA will drive the user to interesting section of the site featuring
+			industry highlights in three distinct columns:MODERN, SAFE, INDUSTRIAL.
+	
+			</p><br />
+			<h3>CONTENT VISUALIZATION</h3><br />
+			<p>This component (section, article) begins with a large caption "MODERN"(div), a tagline (h1-h5), an background image (img). 
+			Beneath, a large "LEARN MORE" button to dive into features of site without using the navigation menu.
+			</p><br />
+			<p><a href="" class="btnComp">VIEW COMPONENT</a></p>
+		</article>
+		<!-- FOOTER section -->
+		<article>
+			<img src="images/footer.jpg" alt="Footer" width="350" height="100" />
+			<h1>FOOTER</h1><br />
+			<p>At the bottom of the landing or home page the CONTACT US has three icons of top social network sites (Twitter, Facebook and Google+) for
+			which allows users to build more trust in the brand.
+	
+			</p><br />
+			<h3>CONTENT VISUALIZATION</h3>
+			<p>This component (section, article, h1, icons,map) contains a large caption "Contact Us"(h1), three social network icons (Twitter, Facebook and Google+),
+				 an background image (img). To the lower right-hand corner, a map of with hout using the navigation menu.
+			</p>
+			<p><a href="" class="btnComp">VIEW COMPONENT</a></p>
+		</article>
+	</section>
+<footer>(c)2015 WSP Mohamed Kamara</footer>
+</body>
+</html>
